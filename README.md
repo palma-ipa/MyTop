@@ -30,7 +30,8 @@ Bash
 
 # 1. Build environment
 python -m venv venv
-source venv/bin/activate.fish
+source venv/bin/activate (for bash)
+source venv/bin/activate.fish (for fish)
 pip install psutil pyinstaller
 
 # 2. Compile
