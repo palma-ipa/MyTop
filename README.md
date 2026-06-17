@@ -20,7 +20,7 @@ Lightweight Linux TUI task manager built in Python, that alows to kill processes
 
 ## Installation
 
-## Run from Source
+**Run from source**
 ```bash
 pip install psutil
 python main.py
