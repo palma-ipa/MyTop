@@ -14,7 +14,8 @@ Lightweight Linux TUI task manager built in Python, that alows to kill processes
 * `Q` / `q`: Quit
 
 ## Example
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b7a1934e-408e-4adf-954a-ddbe6fe6401d" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d38ac134-32f7-472f-b862-2ad0d720cf02" />
+
 
 
 ## Installation
